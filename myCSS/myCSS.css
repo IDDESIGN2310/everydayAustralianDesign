@@ -1,0 +1,171 @@
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+
+body{
+
+    font-family: 'Poppins', sans-serif;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    overflow-x: hidden ;
+    max-width:100%;
+
+}
+
+
+  .mycolumn {
+    flex: 100%;
+    max-width: 25%;
+    padding: 0 10px;
+  }
+
+  .mycolumn img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 30%;
+  }
+
+
+
+
+  .overlay {
+    position: fixed;
+    z-index: 2;
+
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background: rgba(0, 0, 0, 0.8);
+    
+    visibility:hidden;
+    opacity: 0;
+    transition: opacity 500ms; 
+  }
+
+  .popup {
+    margin: 30px 20px 0px 30px; 
+    padding: 20px;
+    background: #fff;
+    border-radius: 20px;
+    
+    position: relative;
+    transition: all 500ms ease-in-out;
+    visibility:hidden;
+    opacity: 0;
+  }
+
+  #closeBtn{
+    position: absolute;
+    right:10px;
+    top:10px;
+  }
+
+  #productMainImage{
+    width: 100%;
+    height: auto;
+  }
+
+  #_detail{
+    height: 100%;
+    /*overflow: auto;*/
+  }
+
+  .detailBottomNav{
+    margin: 5px auto;    
+    background: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 90%;
+    height: 60px;
+    padding: 10px;
+  }
+
+  hr{
+    height: 10px;
+  }
+
+  .line{
+    height:1px;
+    width: 100%;
+    background-color: rgb(214, 214, 214);
+    margin:10px 0 10px 0;
+  }
+
+  .bold{
+    font-weight: 800;
+  }
+
+  span{
+    font-weight: 700;
+  }
+
+  .popupContent{
+    height: 100%;
+    overflow:scroll;
+    /*overflow-y: auto;*/
+    overflow-x: hidden;
+  }
+
+  .diamond{
+    max-width:75px;
+  }
+
+
+  .aboutEx{
+    position: absolute;
+    right:0px;
+    bottom:0px;
+  }
+
+  .closeAboutEx{
+    position: absolute;
+    right:0px;
+    bottom:0px;
+    visibility: hidden;
+    opacity: 0;
+    
+  }
+
+  .homeBtn{
+    position: absolute;
+    left:0px;
+    bottom:0px;
+    visibility:hidden;
+    opacity: 0;
+  }
+
+  #_name{
+    text-transform: uppercase;
+    font-size: 1.3em;
+  }
+
+  .popUpAboutEx{
+    z-index: 0;
+    position: fixed;
+    padding: 0px 40px 0px 40px;
+    background: #fff;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    opacity: 0%;
+    visibility: hidden;
+  }
+
+  .aboutExContent{
+    position:relative;
+    height: 100%;
+
+    overflow: scroll;
+    /*overflow-y: auto;*/
+    /*overflow-x: hidden;*/
+  }
+
+  .abooutExContentDIV{
+    margin-top: 50px; 
+  }

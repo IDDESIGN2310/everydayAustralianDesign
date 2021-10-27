@@ -1,0 +1,731 @@
+{"products":[
+ {
+   "Img_name": "SAM_BG_O_01",
+   "Product": "Powerboard",
+   "Client": "Kambrook",
+   "Year": 1972,
+   "Designer1": "Robert Pataki",
+   "Designer2": "Phillip Slattery",
+   "Description": "The first powerboard was assembled from existing electrical components by electrician Frank Bannigan and sold as a kit for caravan owners in 1972. Frank soon founded his company Kambrook and together with his staff member, electrical engineer Peter Talbot, power boards were then mass produced and sold in retail stores throughout Australia. In 1979 industrial design consultancy, Robert Pataki Design, transformed the product with the design of PB-1 developing a configuration that would be replicated the world over. It was never patented."
+ },
+ {
+   "Img_name": "SAM_BG_O_02",
+   "Product": "Conray heater",
+   "Client": "Vulcan",
+   "Year": 1960,
+   "Designer1": "Rosenfeldt Gherardin and Associates",
+   "Designer2": "",
+   "Description": "Rosenfeldt Gherardin and Associates was one of the first industrial design consultancies in Australia. Ron Rosenfeldt was also one of the founders of the Design Institute of Australia. The Vulcan Conray was one of the many electric and gas heaters designed by Rosenfeldt Gherardin and Associates to be awarded Good Design Awards. More research is required but the heater units in Robin Boyd's Walsh Street house may be by Rosenfeldt Gherardin and Associates. Ron Rosenfeldt is a Hall of Fame member of the Design Institute of Australia."
+ },
+ {
+   "Img_name": "SAM_BG_O_03",
+   "Product": "Touchphone 200",
+   "Client": "Telecom Australia",
+   "Year": 1985,
+   "Designer1": "David Atkins Design",
+   "Designer2": "",
+   "Description": "Growing up in Shepparton in the 1970s our family had the standard issue dial phone which was a European design. At that time 'the phone' was provided by Telecom to every household from Lorne to Darwin. In 1985 Telecom Australia launched an ambitious project to develop an Australian residential telephone. The Touchphone 200 was designed by the small team at DAD of David Atkins and Alina Loscher. The lightweight telephone was the first in Australia to use the latest in screen printed touch panels developed for microwave ovens."
+ },
+ {
+   "Img_name": "SAM_BG_O_04",
+   "Product": "Duel Flush Toilet",
+   "Client": "Caroma",
+   "Year": 1984,
+   "Designer1": "Bruce Thompson",
+   "Designer2": "",
+   "Description": "In 1984 during a national television broadcast hosted by Ita Buttrose, an Australian Design Award was presented to the Dual Flush toilet by Caroma. Water saving dual flush toilets now common around the world have all evolved from this world patented Australian innovation."
+ },
+ {
+   "Img_name": "SAM_BG_O_05",
+   "Product": "Integra chair",
+   "Client": "Sebel",
+   "Year": 1974,
+   "Designer1": "Charles Furey",
+   "Designer2": "",
+   "Description": "Designed by Charles Furey the Integra was the first Australian designed all plastic chair. Furey was born in Victoria in 1917 and had an early passion for drawing. He studied art at the School of Mines in Bendigo and after a short career as a teacher he retrained as an engineering draftsman and discovered industrial design. In 1947 Furey established his own practice and designed an electric iron for Speedie; included in the 1956 Olympic Games Arts Festival Industrial Design exhibition. He designed innovative radios for A G Healing in Melbourne before moving to Sydney to establish a design studio for Crown Crystal Glass. Furey was a founding member of the Design Institute of Australia and was inducted into the Hall of Fame in 1999."
+ },
+ {
+   "Img_name": "SAM_BG_O_06",
+   "Product": "Giroaire",
+   "Client": "Mistral",
+   "Year": 1975,
+   "Designer1": "Peter Bayly",
+   "Designer2": "",
+   "Description": "The concept of the Mistral Fan came from work by Peter Bayly and the first generation won the Dunhill Design Prize and Good Design selection."
+ },
+ {
+   "Img_name": "SAM_BG_O_07",
+   "Product": "8L Family urn",
+   "Client": "Kambrook",
+   "Year": 1980,
+   "Designer1": "Robert Pataki",
+   "Designer2": "Phillip Slattery",
+   "Description": "The Kambrook 8L Family urn is a classic Australian product used in community halls, footy clubs and tea rooms all across the country."
+ },
+ {
+   "Img_name": "SAM_BG_O_08",
+   "Product": "Microwave egg poacher",
+   "Client": "Trend",
+   "Year": 1991,
+   "Designer1": "Jim Samartgis",
+   "Designer2": "",
+   "Description": "In the 1980s microwave oven was expected to revolutionise cooking. In Melbourne many studios and designers were briefed to design innovative microwave cookware for the shelves of the major retailers Coles and Woolworths. Jim Samartgis, David Flynn and Jack Magree all worked at Bayly Design in 1986 on cookware for Willow. In 1990 Peter Fanning of Trend briefed Jim Samartgis to solve the long standing problem associated with microwave cooking of eggs. They had a tendency to explode and tasted like leather. Patent no USD348796 for an egg poacher is just one of 45 held by Samartgis. Samartgis has over the past fifteen years joined Richard Carlson and Tony Wolfenden designing products for Brian Davis at D'cor. The D'cor microwave 4 up egg poacher designed by Samrtgis in 2016 is sold worldwide."
+ },
+ {
+   "Img_name": "SAM_BG_O_09",
+   "Product": "KE12 Kettle",
+   "Client": "General Electric",
+   "Year": 1978,
+   "Designer1": "Barry Hudson",
+   "Designer2": "",
+   "Description": "Awarded the Prince Phillip Prize for Australian Design 1978, the KE12 electric kettle was designed by Barry Hudson. The product was an early example of an all plastic electric kettle with a single handed opening spout and adjustable whistle. The use of an integral hinge for the spout opening mechanism utilised the unique live hinge property of polypropylene, now common but at the time was a novel use of the material and very efficient to manufacture."
+ },
+ {
+   "Img_name": "SAM_BK_O_01",
+   "Product": "Snack 'N' Sandwich Maker",
+   "Client": "Breville",
+   "Year": 1978,
+   "Designer1": "Staff",
+   "Designer2": "",
+   "Description": "Famous for the patented scissor action Breville released the first sandwich toaster in 1974. Breville was established by Bill O'Brien and Harry Norville in 1932 in Sydney. The Breville design studio in Sydney has continued to innovate and in 2018 was awarded the Design Team of the Year at the Good Design Awards."
+ },
+ {
+   "Img_name": "SAM_BK_O_02",
+   "Product": "Concave",
+   "Client": "Alessi",
+   "Year": 1992,
+   "Designer1": "Su San Cohn",
+   "Designer2": "",
+   "Description": "'Memory Containers' was the project theme set by Alessi for two hundred invited international designers and artisans in 1990. Following the success of her show in Tokyo that year, Su San Cohn, a gold and silversmith from Melbourne, was invited to participate. Inspired by early Australian colonial meat safes constructed from timber with perforated metal panels, Cohn designed a large diameter twin layer fruit bowl. In each unique Cohncave bowl the two perforated layers are offset to produce a moir' pattern. Cohn's concept for a mass produced artisan piece saw the Cohncave short listed to a final group of nine designs. All short listed designers submitted sketches ' except for Cohn ' who presented an exquisite prototype still prized by Alberto Alessi. The Cohncave was released in 1992 and Cohn would become the first of many Melbourne designers to work with Alessi."
+ },
+ {
+   "Img_name": "SAM_BK_O_03",
+   "Product": "Keep Cup",
+   "Client": "Keep Cup",
+   "Year": 2009,
+   "Designer1": "Cobalt",
+   "Designer2": "",
+   "Description": "Concerns for the environment have challenged designers and individuals the world over to reduce the waste from disposable polystyrene foam coffee cups. The majority of the patents that sought to solve this problem, dealt only with the concerns of the cup for coffee and not the behaviour of users. Keep Cup is an inspiring example of systemic change. It was the world's first reusable 'barista standard' coffee cup. Founders, Abigail and James Forsyth released KeepCup in 2009 at the State of Design Festival, held in the World Heritage listed Royal Exhibition Buildings. Keep Cup, now global, has revolutionised the behaviour of consumers of great coffee."
+ },
+ {
+   "Img_name": "SAM_BK_O_04",
+   "Product": "Ora",
+   "Client": "Ross Gardam",
+   "Year": 2015,
+   "Designer1": "Ross Gardam",
+   "Designer2": "",
+   "Description": "Released originally as a series of limited editions the Ora desk lamp is a pure expression of material and process. Precision machined from aluminium with premium brushed anodized finish. The 360' orbiting shade with smooth tilt adjustment allows users freedom to achieve a perfect mood for a space."
+ },
+ {
+   "Img_name": "SAM_BK_O_05",
+   "Product": "Cinema camera",
+   "Client": "Black Magic Design",
+   "Year": 2010,
+   "Designer1": "Black Magic Design",
+   "Designer2": "",
+   "Description": "Founded by CEO Grant Petty Black Magic Design is a manufacturer of world class digital video products. Black Magic Design's DeckLink capture cards launched a revolution in quality and affordability in post production, while the company's Emmy' award winning DaVinci color correction products have dominated the television and film industry since 1984. In 2012 Black Magic Design announced the Cinema Camera, a truly democratizing global product. Costing one fifth of existing cameras it has had significant cultural implications on the global video industry, putting high-end filmmaking within the reach of the mass-market. The design studio at Black Magic won the RED DOT: Design Team of the Year award in 2016. Grant Petty grew up in Shepparton and attended Shepparton South Techinal school where in 1984 he first used video production equipment."
+ },
+ {
+   "Img_name": "SAM_BK_O_06",
+   "Product": "Monaro sports wheel trim",
+   "Client": "Holden",
+   "Year": 1966,
+   "Designer1": "Phillip Zmood",
+   "Designer2": "",
+   "Description": "Phillip Zmood was employed as a young graduate from RMIT industrial design in 1966. He started at the Fisherman's Bend Design Studio and was told to just draw cars. He would go on to become the first Australian Head of Design for Holden. The HK Monaro sports wheel trim was one of his first designs to go into production and the original drawing is held in the RMIT Design Archives."
+ },
+ {
+   "Img_name": "SAM_BK_O_07",
+   "Product": "Orbitkey",
+   "Client": "Orbitkey",
+   "Year": 2012,
+   "Designer1": "Charles Ng",
+   "Designer2": "",
+   "Description": "In 2012 while jogging Charles Ng had something on his mind. Successful crowd funding projects on Kickstarter had motivated him, and as he ran, he hoped the 'big idea' was just around the next corner. Surprisingly it was the constant rattle of the keys in his pocket as he approached the corner that stopped him in his tracks. Orbitkey was born. Ng not only stopped the keys rattling, but as a result of a highly successful Kickstarter campaign, with his partner Rex Kuo, Orbitkey is now a global brand and a revolution for the humble key ring."
+ },
+ {
+   "Img_name": "SAM_BK_O_08",
+   "Product": "Decimal Coins",
+   "Client": "Royal Australian Mint",
+   "Year": 1964,
+   "Designer1": "Stuart Devlin",
+   "Designer2": "",
+   "Description": "Stuart Devlin AO designed Australia's iconic decimal coins and more than 15,200,000,000 coins have been minted with his designs. This highly successful coin series was based on Australia's unique fauna, such as the kangaroo ($1), lyrebird (10 cent) and platypus (20 cent). Devlin, who grew up in Geelong and studied in Melbourne, London and New York, has designed coins for over 30 countries. Devlin designed the medals for the Order of Australia and also coins for the 2000 Sydney Olympic Games. Stuart Devlin is a Hall of Fame member of the Design Institute of Australia"
+ },
+ {
+   "Img_name": "SAM_BK_O_09",
+   "Product": "Trinity bowl",
+   "Client": "Alessi",
+   "Year": 2013,
+   "Designer1": "Adam Cornish",
+   "Designer2": "",
+   "Description": "One hot Melbourne summer day while others were at the beach, Adam Cornish presented his prototype laser cut bowl, prepared for Salone Satellite 2009 to Professor Kjell Grant, founder and President of Melbourne Movement. At first sight Grant new the Trinity bowl would propel his prot'g', Adam Cornish onto the world stage. Grant had been taught by the masters, Mies Van der Rohe in Chicago and Henry Moore at the Royal College of Art in London. He often says that he judges his own work by asking 'What would Mies have thought of this piece'. In that instant Adam had arrived at the place of total respect from his master, Kjell Grant. The Trinity bowl inspired by the conch shell and intelligently designed to exploit laser cutting, was released by Alessi in 2013. Cornish has since developed a Trinity range. Cornish's studio is in Melbourne and he is working on numerous new projects around the world in furniture, lighting and tableware."
+ },
+ {
+   "Img_name": "SAM_BN_O_01",
+   "Product": "Billy",
+   "Client": "Willow",
+   "Year": 1889,
+   "Designer1": "Ralph Wilson",
+   "Designer2": "",
+   "Description": "The Wilson brothers established a manufacturing business in North Melbourne in 1889 that would later become Willow. The swagman from Waltzing Matilda brewed tea on a campfire in a billy. "
+ },
+ {
+   "Img_name": "SAM_BN_O_02",
+   "Product": "Camp oven",
+   "Client": "J Furphy & Sons",
+   "Year": 1893,
+   "Designer1": "J Furphy",
+   "Designer2": "",
+   "Description": "The iconic Furphy water cart was designed and made in Shepparton from 1893. A 'Furphy' is a uniquely Austalian word meaning 'rumour, or absurd story' that has origins from the famous water carts. Cast iron camp ovens are popular when camping outback in Australia. The furphy camp oven has the same lid as the original water carts. "
+ },
+ {
+   "Img_name": "SAM_BN_O_03",
+   "Product": "Original #500 boot",
+   "Client": "Blundstone",
+   "Year": 1870,
+   "Designer1": "Staff",
+   "Designer2": "",
+   "Description": "Established in Hobart in1870 Blundstone Boots soon proved themselves as a superior product for Australian conditions. Early advertising posters focused on the design features: stylish, serviceable and durable. Blundstone were commissioned to provide boots for Australian troops in both WW1 and WW2 and was acknowledged with a gold award at The Made in Tasmania Exhibition in 1929. In 1979 Blundstone received their first Australian Design Award form the Industrial Design Council of Australia."
+ },
+ {
+   "Img_name": "SAM_BN_O_04",
+   "Product": "Dining Chair",
+   "Client": "Fler",
+   "Year": 1966,
+   "Designer1": "Fred Lowan",
+   "Designer2": "",
+   "Description": "Fred Lowan arrived in Australia in 1940 having escaped from Germany in 1938. He was interned in Tatura  In 1948 Lowen and Ernest Rodeck founded the iconic Australian furniture brand FLER (a combination of the two partners' initials). Selected by Robin Boyd, Lowan was one of three designers who contributed special designs for the Australian Pavilion, Expo Montreal, Canada in 1967. In 1968 he left FLER to establish TESSA. He was awarded the Dunhill Design Award in 1970, the Sebel Design Award in 1972 and a special commendation in the Prince Phillip Prize for Australian Design in 1973."
+ },
+ {
+   "Img_name": "SAM_BN_O_05",
+   "Product": "BYO Wine Cooler",
+   "Client": "Decor Corporation",
+   "Year": 1979,
+   "Designer1": "Richard Carlson",
+   "Designer2": "",
+   "Description": "BYO (Bring Your Own) restaurants were a unique feature of Melbourne's culinary culture in the 1970s. The D'cor BYO wine cooler was designed by Richard Carlson following a phone call made outside the Houses of Parliament in Spring Street Melbourne. D'cor CEO Brian Davis had just attended an awards event where a Hessian bag printed with the letters BYO had won a design award. In the 1970s Davis had often struggled to keep a favourite bottle of wine chilled in transit to one of the many BYO restaurants. 'A plastic bag with ice cubes never really worked. The BYO design by Richard Carlson won the Prince Phillip Prize 1980 and is in the permanent collection of the Museum of Modern Art. Richard Carlson was awarded the Gold Medal in 1985 by the Design Institute of Australia."
+ },
+ {
+   "Img_name": "SAM_BN_O_06",
+   "Product": "Acoustic guitar",
+   "Client": "Maton",
+   "Year": 1980,
+   "Designer1": "Staff",
+   "Designer2": "",
+   "Description": "Maton guitars are iconic."
+ },
+ {
+   "Img_name": "SAM_BN_O_07",
+   "Product": "Staysharp Knife MKI",
+   "Client": "Wiltshire",
+   "Year": 1964,
+   "Designer1": "Stuart Devlin",
+   "Designer2": "",
+   "Description": "In 1964 a US market survey showed that 80% of Americans didn't know how to sharpen a knife. 'Aha'' thought Dennis Jackson, a design engineer for Wiltshire, 'a knife that sharpens itself is the answer!' In an instant he had identified a whole new range of products with an advantage over any blade ever sold before. Stuart Devlin AO designed the first distinctive wall mounted scabbard. Peter Bayly designed the classic 70s range, which was awarded the Prince Phillip Prize and Good Design selection."
+ },
+ {
+   "Img_name": "SAM_BN_O_08",
+   "Product": "HR Mantle Radio",
+   "Client": "Astor",
+   "Year": 1950,
+   "Designer1": "Staff",
+   "Designer2": "",
+   "Description": "Bakelite radios brought the world into Australian homes. Companies like Astor not only manufactured radios for our homes but also provided vital equipoment for the defence forces in World War II. Radios like the HR Mantle and the Astor Mickey were some of the first uses of plastic moulkding in Australia."
+ },
+ {
+   "Img_name": "SAM_BN_O_09",
+   "Product": "Nesting set of tables",
+   "Client": "Catt",
+   "Year": 1986,
+   "Designer1": "Roy Catt",
+   "Designer2": "",
+   "Description": "Charles Catt emigrated to Western Australia came from the UK and established a small cabinet making business in Perth. His son Roy became a furniture designer and together they established Charles Catt Furniture. In 1969 they obtained a major contract to design and manufacture the furniture for the Robertson Library at the WA Institute of Technology. In the 1980s furniture ranges in solid Jarrah were awarded Australian design awards and sold across Australia."
+ },
+ {
+   "Img_name": "SAM_BU_O_01",
+   "Product": "Esky",
+   "Client": "Nylex",
+   "Year": 2000,
+   "Designer1": "Catalyst",
+   "Designer2": "",
+   "Description": "In 1954 the Australian invention known as the 'esky' was first commercially manufactured by Malleys. Nylex, Enco, Willow and Esky brands have all been manufactured since the 1950s and many Australian design studios have worked on an 'esky' or cooler project. Pioneers Edward Kayser and Lionel Suttie lead the way followed over the years by; Bayly Design, Catalyst, Cobalt, Design + Industry, Outerspace Design Group, Uno, and most recently, David Flynn at Willow. Most households have at least one 'esky' to ensure drinks and food are kept cool in the heat of the Australian summer."
+ },
+ {
+   "Img_name": "SAM_BU_O_02",
+   "Product": "Alpine Jug",
+   "Client": "Willow",
+   "Year": 2014,
+   "Designer1": "",
+   "Designer2": "",
+   "Description": "The Alpine cooler has been in the Willow product range for more than 80 years. The Wilson brothers established a manufacturing business in North Melbourne in 1889 that would later become Willow. In the 1960s Willow patented expanded polystyrene (EPS) foam processes to manufacture coolers and jugs for the hot Australian summer. This technology was successfully exported and licensed around the world. This process was used by Grant and Mary featherston to mould the lightweight shells of the Talking Chair. The 2014 Alpine showcases Willow's innovation in process and product design with units assembled and tested by robots in the high-tech plant in Tullamarine. Industrial designer"
+ },
+ {
+   "Img_name": "SAM_BU_O_03",
+   "Product": "Icepak",
+   "Client": "Nylex",
+   "Year": 1971,
+   "Designer1": "Michael Simcoe",
+   "Designer2": "",
+   "Description": "The Esky Icepack has been in production for 40 years. It was designed by Michael Simcoe in his first job at Nylex in Seaford with Lionel Suttie. Suttie had been Simcoe's lecturer at RMIT and he gained valuable experience designing products for the high volume Nylex plants. Simcoe joined Holden as an automotive designer employed by Phillip Zmood in 1982 and would go on to succeed Zmood as Head of Design for GM Holden. Simcoe is now Vice President of Global Design for GM in Detroit. Michael Simcoe is a Hall of Fame member of the Design Institute of Australia"
+ },
+ {
+   "Img_name": "SAM_BU_O_04",
+   "Product": "Polymer notes",
+   "Client": "Note Printing Australia",
+   "Year": 1988,
+   "Designer1": "Max Robinson, Garry Emery & Brian Sadgrove",
+   "Designer2": "",
+   "Description": "Designed to prevent counterfeiting, polymer notes were developed by the CSIRO, Melbourne University and Note Printing Australia. The first notes were released in the Australian Bicentennial year of 1988. Polymer notes have been adopted in more than 20 countries including Singapore, Canada and most recently the UK. The commission to design the notes offered Melbourne graphic designers Max Robinson ($10), Garry Emery ($20), and Brian Sadgrove ($50), the opportunity to collaborate."
+ },
+ {
+   "Img_name": "SAM_BU_O_05",
+   "Product": "Daytek Utility tool box",
+   "Client": "Dayton Tooling",
+   "Year": 1979,
+   "Designer1": "Staff",
+   "Designer2": "",
+   "Description": "The utility tool box won an Australian design award in 1979. Dayton Tooling Pty Ltd manufactured wheelbarrows and ladders as well as supplying componets for the automotive industry. Award winning folding clothes lines, still manufactured in the Preston factory, are now the everyday product most associated with the Daytek brand."
+ },
+ {
+   "Img_name": "SAM_BU_O_06",
+   "Product": "Integra bicycle helmet",
+   "Client": "Britax",
+   "Year": 1987,
+   "Designer1": "David Flynn",
+   "Designer2": "",
+   "Description": "David Flynn's distinctive approach to design is encapsulated in the Integra bicycle helmet. Flynn invests design with imagination, creativity and emotion achieving award winning recognition for clients. Manufactured in Australia and exported to Europe the Integra Bicycle Helmet like the Stack Hat was a system meeting bicycle safety standards. Peter Bayly is a Hall of Fame member of the Design Institute of Australia."
+ },
+ {
+   "Img_name": "SAM_BU_O_07",
+   "Product": "All Australian Mop bucket",
+   "Client": "E D Otes",
+   "Year": 1986,
+   "Designer1": "DesignLab",
+   "Designer2": "",
+   "Description": "At a time when polished flooring was becoming more popular in Australian homes, the brief by owner Jim Oates, was to provide concepts for a replacement to existing heavy galvanised metal buckets. The concept of an all-plastic mop bucket was totally innovative at the time. Supported by patent protection, this great idea has been an outstanding commercial success since it was first launched."
+ },
+ {
+   "Img_name": "SAM_BU_O_08",
+   "Product": "Duo lunch box",
+   "Client": "Decor Corporation",
+   "Year": 1996,
+   "Designer1": "Richard Carlson",
+   "Designer2": "",
+   "Description": "Lunch at school as a child is full of memories. Designed by Richard Carlson the Duo was an innovation with a frozen drink bottle included to keep school lunch cool."
+ },
+ {
+   "Img_name": "SAM_BU_O_09",
+   "Product": "KD9 Powerboard",
+   "Client": "Kambrook",
+   "Year": 1972,
+   "Designer1": "Frank Bannigan",
+   "Designer2": "Peter Talbot",
+   "Description": "Kambrook Powerboard KD9 designed in 1972 by Peter Talbot for Frank Bannigan. This simple injection moulded blue shell makes this the first commercially available power board in the world. KD01 may have been the first product by Bannigan but the KD09 is the origin of the common configuration of a powerboard. This product was required to be fixed to a wall and you can see the basic production methods (hole saw) used to assemble the final product from standard electrical components."
+ },
+ {
+   "Img_name": "SAM_G_O_01",
+   "Product": "Timer Tap",
+   "Client": "Sabco",
+   "Year": 1981,
+   "Designer1": "Staff",
+   "Designer2": "",
+   "Description": "Sabco was established in South Australia in1892 as the South Australian Brush Company by W.E.Hay. Sabco designed and patented this innovative water saving device as a response to the need to conserve water in our dry continent, while still keeping the grass green. The Sabco Timer Tap was awarded the Prince Philip Prize for Australian Design in 1981."
+ },
+ {
+   "Img_name": "SAM_G_O_02",
+   "Product": "9L Watering Can",
+   "Client": "Hortico",
+   "Year": 1986,
+   "Designer1": "Blue Sky Design",
+   "Designer2": "",
+   "Description": "Mark Armstrong and the team at Blue Sky Design in Sydney delivered a timeless duel handle design for the Hortico 9 litre watering can in 1986. This product has endured and has been in hardware stores across Australia longer than Bunnings have been serving sausages. Blue Sky Design founder Mark Armstrong is a Hall of Fame member of the Design Institute of Australia."
+ },
+ {
+   "Img_name": "SAM_G_O_03",
+   "Product": "Bathroom utility stool",
+   "Client": "Caroma",
+   "Year": 1967,
+   "Designer1": "Bruce Thompson",
+   "Designer2": "",
+   "Description": "The Caroma bathroom utility stool has three parts; one top lid 'seat' and two identical conical tubes. The elegant stacking of the two conical tubes to form the stool is quintessential Australian industrial design. In Europe production volumes allowed designers the luxury of expensive tooling which was amortised with large production quantities. The reduced cost of the tooling for only half a stool made this product viable in Australia. Bruce Thompson and the designers at Caroma also ensured the cones stacked for easy shipping."
+ },
+ {
+   "Img_name": "SAM_G_O_04",
+   "Product": "Wiltshire Staysharp Knife MKII",
+   "Client": "Wiltshire",
+   "Year": 1972,
+   "Designer1": "Peter Bayly",
+   "Designer2": "",
+   "Description": "In 1964 a US market survey showed that 80% of Americans didn't know how to sharpen a knife. 'Aha'' thought Dennis Jackson, a design engineer for Wiltshire, 'a knife that sharpens itself is the answer!' In an instant he had identified a whole new range of products with an advantage over any blade ever sold before. Stuart Devlin AO designed the first distinctive wall mounted scabbard. Peter Bayly designed the classic 70s range, which was awarded the Prince Phillip Prize and Good Design selection."
+ },
+ {
+   "Img_name": "SAM_G_O_05",
+   "Product": "Uranium glass bowl",
+   "Client": "Crown Crystal Glass",
+   "Year": 1930,
+   "Designer1": "Staff",
+   "Designer2": "",
+   "Description": "Depression glass bowls were common wedding gifts used for salads or summer desserts like trifle or jellied fruit from an SPC can. Crown Crystal glass in Sydney was a major Australian glass manufacturer."
+ },
+ {
+   "Img_name": "SAM_G_O_06",
+   "Product": "Esky Autobox cooler",
+   "Client": "Malleys",
+   "Year": 1954,
+   "Designer1": "Staff",
+   "Designer2": "",
+   "Description": "In 1954 a newspaper advertisement said \"Keep your picnic cool and fresh in the new 'ESKY\" Autobox. The Esky was born. Malleys had from the 1940s manufactured an upright icebox using the brand ESKY. The arrival of automobiles for families provided the opportunity for a portable ice box in our hot Australian summers. This Autobox, the world's first Esky, is a significant object in the Ian Wong collection."
+ },
+ {
+   "Img_name": "SAM_G_O_07",
+   "Product": "Tricycle",
+   "Client": "Hills Industries",
+   "Year": 1970,
+   "Designer1": "Staff",
+   "Designer2": "",
+   "Description": "Hills are famous for the inventing the rotary clothes hoist installed in almost every Australian home last century."
+ },
+ {
+   "Img_name": "SAM_G_O_08",
+   "Product": "Playtime koala squeeze toy",
+   "Client": "Moulded Products",
+   "Year": 1955,
+   "Designer1": "Staff",
+   "Designer2": "",
+   "Description": "Toys under the Christmas tree or wrapped for a birthday party are so special. Playtime toys like Bilda Bix and Toltoys Hula hoops are a part of all our lives and these we once designed in Australia."
+ },
+ {
+   "Img_name": "SAM_G_O_09",
+   "Product": "Duperite lunchbox",
+   "Client": "Moulded Products",
+   "Year": 1945,
+   "Designer1": "Staff",
+   "Designer2": "",
+   "Description": "Early school lunchbox"
+ },
+ {
+   "Img_name": "SAM_O_O_01",
+   "Product": "Swingtop kitchen tidy",
+   "Client": "Nylex",
+   "Year": 1966,
+   "Designer1": "Lionel Suttie",
+   "Designer2": "",
+   "Description": "Beginning in 1927 as Moulded Products in North Melbourne, the business established by John Derham was a pioneer in the manufacture of plastics in Australia. Moulded Products relocated to Cremorne Street, Richmond, manufacturing products under the brand names Duperite and Nylex. The success of the brand Nylex lead to a name change for the company. The Nylex Swing Top Kitchen Tidy was designed in 1966 by industrial designer Lionel Suttie and has been in continuous production in Australia ever since."
+ },
+ {
+   "Img_name": "SAM_O_O_02",
+   "Product": "Dish Doctor",
+   "Client": "Magis",
+   "Year": 1997,
+   "Designer1": "Marc Newson",
+   "Designer2": "",
+   "Description": "Marc Newson is one of the most significant designers of our age. Born in Sydney, Newson now lives in London working for clients across the world. Newson was included in Time magazine's 100 Most Influential People in the World and has received numerous awards and distinctions. The Lockheed lounge and Apple watch are just two iconic Newson works. In 2015 a Lockheed lounge sold for $4,689,585 at auction making it the most expensive designer chair in history."
+ },
+ {
+   "Img_name": "SAM_O_O_03",
+   "Product": "PZ4 Television",
+   "Client": "AWA",
+   "Year": 1968,
+   "Designer1": "William Moody",
+   "Designer2": "",
+   "Description": "The AWA 17' television designed by industrial designer William Moody was awarded the 1968 Sebel Design Merit Award. William Moody first worked as an industrial designer at GMH commencing in 1954. Later on he was given the opportunity to establish a styling department at British Motor Corporation in Sydney. In 1960 he accepted a position as industrial design manager for Amalgamated Wireless Australasia."
+ },
+ {
+   "Img_name": "SAM_O_O_04",
+   "Product": "Studio K",
+   "Client": "Planet Industries",
+   "Year": 1961,
+   "Designer1": "Bill Iggulden",
+   "Designer2": "",
+   "Description": "Designed by Bill Iggulden the Studio K desk lamp is iconic Australian industrial design and was first manufactured in 1962. Awarded an Australian Design Award in 1964, the Studio K proudly featured in advertising campaigns for the Design Awards program and always had the classic blue ADA swing tag with the stylised 'A' logo, designed by Brian Sadgrove."
+ },
+ {
+   "Img_name": "SAM_O_O_05",
+   "Product": "Festive ovenware",
+   "Client": "Crown Crystal Glass",
+   "Year": 1963,
+   "Designer1": "CHarles Furey",
+   "Designer2": "",
+   "Description": "The elegant and simple forms of this award winning range of cookware for Crown Crystal Glass, were designed by the pioneering Australian industrial designer Charles Furey. Furey was a founding member of the Society of Designers for Industry designed radios for A G Healing before joining Crown Crystal Glass as senior industrial designer."
+ },
+ {
+   "Img_name": "SAM_O_O_06",
+   "Product": "Electric drill",
+   "Client": "Sher",
+   "Year": 1965,
+   "Designer1": "William P Sher",
+   "Designer2": "",
+   "Description": "William Peter Sher was a pioneer in the manufacture of electric drills in Australia. Sher designed and manufactjured drills in Collingwood from 1952. Robin Boyd exhibited a Sher drill at the Australian Pavilion in Montreal at expo67. Skill Sher Trimatic electric drills were selected as GOOD DESIGN for the Australian Design Index. Electric drills were also designed and manufactured at Black and Decker in Croydon."
+ },
+ {
+   "Img_name": "SAM_O_O_07",
+   "Product": "Delma stool",
+   "Client": "Aristoc",
+   "Year": 1964,
+   "Designer1": "Grant Featherston",
+   "Designer2": "",
+   "Description": "Shepparton Technical College, like so many schools in Australia, had Aristoc Delma stools in the library, and the art, woodwork, and metalwork rooms in the late 1970s. "
+ },
+ {
+   "Img_name": "SAM_O_O_08",
+   "Product": "Hegs",
+   "Client": "Scott Boocock",
+   "Year": 2014,
+   "Designer1": "Andrew Whittaker",
+   "Designer2": "",
+   "Description": "Inventor Scott Boocock found a way to reinvent the humble clothes peg. Designed to prevent peg marks on delicate clothing the HEG is a peg with a hook. Industrial designer Andrew Whittaker turned the invention into an award winning design. Good Design Award ' Best In Category ' Product Design 2014."
+ },
+ {
+   "Img_name": "SAM_O_O_09",
+   "Product": "Canberra garden sprinkler",
+   "Client": "Pope Industries",
+   "Year": 1970,
+   "Designer1": "Staff",
+   "Designer2": "",
+   "Description": "Summer in Australia was once a lush green lawn and the joy of shreiking as you ran through a spinning garden sprinkler. The four armed Canberra sprinkler is iconic and featured in Mambo Loud shirts in the 1980s."
+ },
+ {
+   "Img_name": "SAM_R_O_01",
+   "Product": "Football",
+   "Client": "AFL",
+   "Year": 1859,
+   "Designer1": "T W Sherrin",
+   "Designer2": "",
+   "Description": "Australian rules football commenced in Melbourne in 1859. This uniquely Australian game involves the marking, bouncing, kicking and hand passing of a red leather ball over a large oval field of play. Teams of eighteen a side and the long game time of around 100 minutes, place large demands on the durability of the hand-stitched ball. In 1882, based on the experience of repairing the stitching to the more pointed rugby balls used for early games, Thomas William Sherrin designed a more durable rounded oval ball. The game is now faster and has seen many innovations by coaches, players and the Australian Football League, but the original ball, designed and made in Melbourne by Sherrin, remains the same."
+ },
+ {
+   "Img_name": "SAM_R_O_02",
+   "Product": "Water jug",
+   "Client": "Fink",
+   "Year": 1994,
+   "Designer1": "Robert Foster",
+   "Designer2": "",
+   "Description": "This Fink water jug is by Robert Foster designer and founder of Fink Australia. In 1994 a Canberra restaurant commission with an initial order of only 3 jugs saw Foster's creativity produce this iconic vessel. Foster's designs are in collections around the world and the water jug is used in the cafe of the Museum of Modern Art in New York. Robert Foster is a Hall of Fame member of the Design Institute of Australia."
+ },
+ {
+   "Img_name": "SAM_R_O_03",
+   "Product": "Little Bitty Fun Co",
+   "Client": "Willow",
+   "Year": 1988,
+   "Designer1": "David Flynn",
+   "Designer2": "",
+   "Description": "Willow Australia was looking to celebrate the companies centenary in the late 1980s so CEO Ralph Wilson briefed David Flynn from Bayly Design in Melbourne to develop a new range of plastic homewares products. The concepts by Flynn were based on common products like milk crates and rubbish bins but designed with character and proportions for children. The success of this project was cause for celebration beyond the centenary as it lead to a very successful new brand for Willow called 'The Little Bitty Fun Company'."
+ },
+ {
+   "Img_name": "SAM_R_O_04",
+   "Product": "Madame Ruby",
+   "Client": "ISMObjects",
+   "Year": 1994,
+   "Designer1": "Celina Clarke",
+   "Designer2": "Simon Christopher",
+   "Description": "Global concerns in the early 1990s over the 'hole in the ozone layer' inspired significant shifts in the practice of industrial design in Melbourne. Educators and the profession at the time sought to respond by adopting the principles of recycling of post consumer waste and design for disassembly. International automotive standards require every motor vehicle to have red, orange and white indicators for road safety. In a period where manufacturers sought applications for mountains of recycled plastic material, Madame Ruby lamps were an inspired use for automotive lens waste. The lamp was selected for the Mutant Materials in Contemporary Design, Museum of Modern Art exhibition in 1995, as an exemplar of eco design."
+ },
+ {
+   "Img_name": "SAM_R_O_05",
+   "Product": "110DFT Camera",
+   "Client": "Hanimex",
+   "Year": 1985,
+   "Designer1": "J F Arnott",
+   "Designer2": "",
+   "Description": "Hanimex was established in Sydney in 1947 by Jack Hannes and the iconic camera brand got its name from Hannes Import Export. Jerry Arnott designed award winning cameras for Hanimex and Konika"
+ },
+ {
+   "Img_name": "SAM_R_O_06",
+   "Product": "Piccantino Chilli Scruncher",
+   "Client": "Alessi",
+   "Year": 2010,
+   "Designer1": "Jim Hannon Tan",
+   "Designer2": "",
+   "Description": "Jim Hannon Tan inspired by mentor Kjell Grant left Australia in 1991 with a one way ticket to Italy. Exhibiting at Salone Satellite in Milan with Melbourne Movement launched Hannon Tan's career working with Alessi, Marcel Wanders, Mooi, and Tom Dixon. Hannon Tan now based in his home town of Adelaide continues to work internationally."
+ },
+ {
+   "Img_name": "SAM_R_O_07",
+   "Product": "Redheads matches",
+   "Client": "Bryant & May",
+   "Year": 1974,
+   "Designer1": "Brian Sadgrove",
+   "Designer2": "",
+   "Description": "Bryant and May commenced manufacturing matches in Richmond in 1909 with the factory opened by Prime Minister Alfred Deakin. The brand Redheads was introduced in 1946 in post war Melbourne and they would grow to dominate the market in Australia. In 1971 graphic designer Brian Sadgrove gave us the iconic version of the Redheads logo that has endured to this day. Sadgrove also designed the iconic Channel 9 logo for Kerry Packer in 1970."
+ },
+ {
+   "Img_name": "SAM_R_O_08",
+   "Product": "Kitchen canisters",
+   "Client": "Capri",
+   "Year": 1962,
+   "Designer1": "Paul Schremmer",
+   "Designer2": "",
+   "Description": "The bright harlequin colors of the Capri Gold Crest kitchen canisters make these products highly recognisable from our past. Designed by a young Paul Schremmer in Sydney the harlequin colors were common in the 1960s not for fashion or style but for a more technical reason. Plastic pigments at that time were difficult to color match so sets were better in multiple colors to avoid rejects from customers. Color matching was solved by the late 1960s and so the 1970s was full of bright solid color plastic products"
+ },
+ {
+   "Img_name": "SAM_R_O_09",
+   "Product": "Sidchrome spanners",
+   "Client": "Siddons Industries",
+   "Year": 1931,
+   "Designer1": "Royston Siddons",
+   "Designer2": "",
+   "Description": "You canna hand a man a granda spanner' was the advertising line for the iconic Sidcrome tools. Royston Siddons (1899'1976) established his first enterprise in Melbourne in 1931. A fire at this premises lead him to establish a drop forging business as part of the war effort. The many quality tools designed in Preston by the Siddons family business are legendary."
+ },
+ {
+   "Img_name": "SAM_W_O_01",
+   "Product": "Axis Kettle",
+   "Client": "Kambrook",
+   "Year": 1994,
+   "Designer1": "Gerard Mussett",
+   "Designer2": "Paul Taylor",
+   "Description": "The Eco Redesign Program in Melbourne in the early 1990s engaged major industrial design practices and major manufacturers with lasting impact. The Axis kettle project in particular sought to influence energy consumption around the world as consumers used boiling water for tea and coffee. The lasting impact of the project was in fact the innovative round central cordless electrical connection, now standard on most cordless kettles worldwide, developed during the project. 'We wanted the kettle to go to the table like a jug of water or teapot' said industrial designer Paul Taylor."
+ },
+ {
+   "Img_name": "SAM_W_O_02",
+   "Product": "Habana beaker set",
+   "Client": "Brian Davis Plastics Pty Ltd",
+   "Year": 1958,
+   "Designer1": "Brian Davis",
+   "Designer2": "",
+   "Description": "D'cor have manufactured millions of products since Brian Davis first tooled up to make the Habana beaker set in the late 1950s. The concept was to design an all plastic moulded set to compete with the popular anodized aluminium cup sets in leather cases. Davis had seen the potential of plastics during his sales role with Australian toy maker Toltoys. This was Davis's first product and it's success would launch Australia's multi award winning homewares company D'cor Corporation. Brian Davis is a Hall of Fame member of the Design Institute of Australia."
+ },
+ {
+   "Img_name": "SAM_W_O_03",
+   "Product": "Quartzline toaster",
+   "Client": "Sunbeam",
+   "Year": 1989,
+   "Designer1": "Sunbeam design staff",
+   "Designer2": "",
+   "Description": "Vegemite on toast is a uniquely Australian breakfast. You need a toaster to cook toast. Sunbeam Australia Corporation has it's origins in Sydney in 1907. Interestingly HPM were awarded their first electrical plug moulding contract for Sunbeam MixMasters in 1934 and these sold in the millions. The first Sunbeam pop-up toaster was launched in Australia in 1955. In the kitchen drawer at Robin Boyd's Walsh Street house there is a classic Sunbeam electric frypan which would have seen work for more than a few Christmas dinners. The Quartzline toaster uses a patented 'in line' toasting configuration that also enables crumpets to be toasted without burning or getting caught. The range won an Australian Design Award in 1989."
+ },
+ {
+   "Img_name": "SAM_W_O_04",
+   "Product": "Light switch",
+   "Client": "HPM",
+   "Year": 1934,
+   "Designer1": "Doris Herman",
+   "Designer2": "",
+   "Description": "Doris Herrman designed the light switches and power points found throughout Robin Boyd's Walsh Street home and is likely to be Australia's first female industrial designer. HPM (Herman Plastic Moulding) was established in Sydney in the 1930s by Berthold and Doris Herrman. Early patents were registered in 1934 and the company were involved in setting the Australian standard for 3 pin electrical plugs. HPM were awarded many Good Design Awards for innovations in electrical hardware with Doris always credited as the designer."
+ },
+ {
+   "Img_name": "SAM_W_O_05",
+   "Product": "Regis glassware range",
+   "Client": "Crown Crystal Glass",
+   "Year": 1969,
+   "Designer1": "Edward Kayser",
+   "Designer2": "",
+   "Description": "The iconic Regis range was designed by Edward Kayser and the original five pieces; 9oz, 7oz, 6oz, 5oz and 21/2oz glasses were awarded the Good Design Award in 1969. Over 170 million items were manufactured between 1969 and 1973."
+ },
+ {
+   "Img_name": "SAM_W_O_06",
+   "Product": "Presto mocha set",
+   "Client": "Alessi",
+   "Year": 2000,
+   "Designer1": "Denton Corker Marshall",
+   "Designer2": "",
+   "Description": "Alessi DCM01 Presto Mocha set. Designed in 2005 by architects John Denton, Bill Corker, and Barrie Marshall as a follow up to their submission for the 2003 Alessi project \"Tea & Coffee Towers.\" That 2003 Alessi project chose 22 international architects to create tea and coffee sets that push the boundaries of design and use of material."
+ },
+ {
+   "Img_name": "SAM_W_O_07",
+   "Product": "Stem chair",
+   "Client": "Aristoc Industries",
+   "Year": 1966,
+   "Designer1": "Grant Featherston",
+   "Designer2": "Mary Featherston",
+   "Description": "Driven by the opportunities presented by the availablity of new plastic polymers and process the partneship of Grant and Mary Featherston designed a number of innovative plastic chairs. A collaboration with ACI Plastics engineers and discussions around large industrial tank mouldings inspired them to apply the rotational moulding process to furniture for the first time in Australia."
+ },
+ {
+   "Img_name": "SAM_W_O_08",
+   "Product": "Button clipper",
+   "Client": "Kempthorne",
+   "Year": 1960,
+   "Designer1": "Joyce Coffey",
+   "Designer2": "Selwyn Coffey",
+   "Description": "Kempthorne was a major manufacturer of lighting in Australia. The square and round clipper light fittings, designed by Selwyn and Joyce Coffey, won Good Design Awards and can be seen under the eaves of brick veneer homes from Bondi to Broome. Joyce Coffee is recognised as a pioneering female industrial designer."
+ },
+ {
+   "Img_name": "SAM_W_O_09",
+   "Product": "Vasse",
+   "Client": "M2",
+   "Year": 1996,
+   "Designer1": "Marc Pascal",
+   "Designer2": "",
+   "Description": "Marc Pascal is most famous for the iconic Worvo lamp released in 1994. Vaase is one of a range of ceramic products designed in 1996 and still in production. An industrial designer with a background in fine art, Pascal explores materials and processes to create highly unique and individual ceramics, lighting and furniture works. Pascal first exhibited internationally in Tokyo in 1991 and his works are in the collection of the National Gallery of Victoria."
+ },
+ {
+   "Img_name": "SAM_Y_O_01",
+   "Product": "Snack Fresh",
+   "Client": "Decor Corporation",
+   "Year": 1974,
+   "Designer1": "Tony Wolfenden",
+   "Designer2": "",
+   "Description": ""
+ },
+ {
+   "Img_name": "SAM_Y_O_02",
+   "Product": "Dolphin Torch",
+   "Client": "Eveready",
+   "Year": 1977,
+   "Designer1": "Design Field",
+   "Designer2": "Design Resource",
+   "Description": "The Dolphin Torch is an Australian classic design. Designed primarily as a floating torch for boating and marine applications the Eveready Dolphin was for many years the largest selling torch in Australia. Sydney industrial designer Paul Cockburn through his studio Design Field received the commission from Eveready USA to design the first Australian Dolphin the MK2 and also designed MK3. John Brown from Design Resource designed MK4."
+ },
+ {
+   "Img_name": "SAM_Y_O_03",
+   "Product": "Stack Hat",
+   "Client": "Rosebank",
+   "Year": 1980,
+   "Designer1": "PA Technology",
+   "Designer2": "Bryon Fitzpatrick",
+   "Description": "The Stackhat is a classic Aussie product celebrated for it's connection to being forced as a kid to wear a bike helmet. Designed to meet strict bicycle safety standards, the concept was for a multi-use design for cricket, horse riding and bicycling. Designer Bryon Fitzpatrick was influenced by the work of visual futurist Syd Mead on the film Tron. Bryon Fitzpatrick is a Hall of Fame member of the Design Institute of Australia."
+ },
+ {
+   "Img_name": "SAM_Y_O_04",
+   "Product": "Calyx lamp",
+   "Client": "Clement Meadmore",
+   "Year": 1955,
+   "Designer1": "Clement Meadmore",
+   "Designer2": "",
+   "Description": "Manufactured in small quantities and originally available in white, yellow, red and blue the Calyx lamp has become an iconic Australian lamp much sought after by collectors. The lamp on display is from the Beaumaris Mid Century home of graphic designer Frank Eidlitz."
+ },
+ {
+   "Img_name": "SAM_Y_O_05",
+   "Product": "Panier stool",
+   "Client": "Helen Kontouris",
+   "Year": 2011,
+   "Designer1": "Helen Kontouris",
+   "Designer2": "",
+   "Description": "Helen Kontouris established Helen Kontouris Design in 2001 and first exhibited in Tokyo in 2002. In 2003 the iconic 101 chair was exhibited at Salone Satellite in Milan. Schiavello manufacture the 101 chair and the La La stool from 2004. The 2004 Salone Satellite stand by Kontouris resulted in Kundalini licensing the La La light for manufacture. The Scoop Egg Cup and Spoon was released by Alessi in 2011. The Panier stool was designed in 2011 and the Bauhaus range was a finalst in the 2020 Victorian Premier's Design Awards. "
+ },
+ {
+   "Img_name": "SAM_Y_O_06",
+   "Product": "Roller Radio + Portable TV",
+   "Client": "Philips",
+   "Year": 1975,
+   "Designer1": "Robert Pataki",
+   "Designer2": "Murray Camerns",
+   "Description": "Throughout the 1960s'80s the Centre for Industrial Design (CID) in Melbourne was a local studio for the global design lead company Philips. Designers would work in Melbourne and Eindhoven on the broad range of products manufactured by Philips. The Philips Design Team in Clayton was awarded the Design Institute of Australia National Award Product Design-Consumer in 1985. Robert Pataki designed the Model 21 portable television in 1975.Murray Camens designed the Roller Radio whilst working with Philips in Eindhoven. The 'Roller Radio' has been celebrated in design award competitions and was featured in articles about product design trends. It became a global 'Design Icon'"
+ },
+ {
+   "Img_name": "SAM_Y_O_07",
+   "Product": "Quartic bowl",
+   "Client": "Bessemer",
+   "Year": null,
+   "Designer1": "Lionel Suttie",
+   "Designer2": "",
+   "Description": ""
+ },
+ {
+   "Img_name": "SAM_Y_O_08",
+   "Product": "Drink flask",
+   "Client": "Decor Corporation",
+   "Year": null,
+   "Designer1": "Richard Carlson",
+   "Designer2": "",
+   "Description": ""
+ },
+ {
+   "Img_name": "SAM_Y_O_09",
+   "Product": "",
+   "Client": "",
+   "Year": null,
+   "Designer1": "",
+   "Designer2": "",
+   "Description": ""
+ }
+]}
