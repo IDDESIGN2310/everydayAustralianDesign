@@ -117,26 +117,61 @@ body{
 
 
   .aboutEx{
+    background-image:url('../../../Assets/ui_imags/bg_aboutEX.png');
     position: absolute;
     right:0px;
     bottom:0px;
+    width: 124px;
+    height:75px;
+    pointer-events: none;
+    
+  }
+
+  #_aboutEx{
+    position: absolute;
+    right:0px;
+    bottom:0px;
+    pointer-events: visible;
+    
   }
 
   .closeAboutEx{
+    background-image:url('../../../Assets/ui_imags/bg_aboutEX.png');
+    
+    /*url("Assets/ui_imags/.png");*/
     position: absolute;
     right:0px;
     bottom:0px;
     visibility: hidden;
     opacity: 0;
+    width: 124px;
+    height:75px;
     
   }
 
+  #_closeAboutEx{
+    position: absolute;
+    right:0px;
+    bottom:0px;
+  }
+
   .homeBtn{
+    background-image:url('../../../Assets/ui_imags/bg_home.svg');
+    pointer-events: none;
     position: absolute;
     left:0px;
     bottom:0px;
     visibility:hidden;
     opacity: 0;
+    width: 124px;
+    height:75px;
+  }
+
+  #_homeBtn{
+    position: absolute;
+    left:0px;
+    bottom:0px;
+    pointer-events: visible;
   }
 
   #_name{
@@ -164,8 +199,15 @@ body{
     overflow: scroll;
     /*overflow-y: auto;*/
     /*overflow-x: hidden;*/
+
   }
 
   .abooutExContentDIV{
     margin-top: 50px; 
+  }
+
+
+  .hidden{
+    visibility: hidden;
+    opacity: 0;
   }

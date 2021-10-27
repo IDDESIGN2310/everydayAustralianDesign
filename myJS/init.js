@@ -129,10 +129,11 @@ function setScreenSize(){
     //switch contents for right arrow from popup
     rightArrow.addEventListener("click", ()=>{
         let max = contentOrder[selectedColor-1]*9+8
+        let min = contentOrder[selectedColor-1]*9
         if(initIndexContent < max){
             initIndexContent = initIndexContent+1;
         }else if (initIndexContent = max) {
-            initIndexContent = max
+            initIndexContent = min
         }
 
         setPopUpContent(initIndexContent)
@@ -141,12 +142,13 @@ function setScreenSize(){
 
     //switch contents for left arrow from popup
     leftArrow.addEventListener("click", ()=>{
+        let max = contentOrder[selectedColor-1]*9+8
         let min = contentOrder[selectedColor-1]*9
         
         if(initIndexContent > min){
             initIndexContent = initIndexContent-1;
         }else if (initIndexContent = min) {
-            initIndexContent = min
+            initIndexContent = max
         }
      
         setPopUpContent(initIndexContent)
@@ -277,7 +279,11 @@ function setPopUpContent(indexContent){
 
     productName.innerHTML = contentData[indexContent]["Product"]
     year.innerHTML = "Year: "+ contentData[indexContent]["Year"]
+<<<<<<< Updated upstream
         
+=======
+
+>>>>>>> Stashed changes
     if(contentData[indexContent]["Designer2"] == ""){
         designer.innerHTML= "<span>Designer: </span>" + contentData[indexContent]["Designer1"]
     }else{

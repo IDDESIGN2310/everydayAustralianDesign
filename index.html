@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0,user-scalable=no;">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0,user-scalable=no">
 
 
     <style>
@@ -17,11 +17,11 @@
 <body>
     <!--about exhibition btn-->
     <div class="aboutEx">
-        <img id ="_aboutEx" src ="Assets/ui_imags/aboutExhibition.svg" alt="about"/>
+        <img id ="_aboutEx" src ="Assets/ui_imags/aboutExIcon.svg" alt="about"/>
     </div>
     <!--about home btn-->
     <div class="homeBtn">
-        <img id ="_homeBtn" src ="Assets/ui_imags/homeBtn.svg" alt="about"/>
+        <img id ="_homeBtn" src ="Assets/ui_imags/homeIcon.svg" alt="about"/>
     </div>
 
  
@@ -129,7 +129,7 @@ This colourful display provides a story or two for all by prompting nostalgic me
             </div>
             <!--Designers-->
             <div class="abooutExContentDIV" style="font-size: 1.2em;">
-                <span>Designer</span>
+                <span>Designers</span>
             </div>
             <div>
                 Richard Allen, Abi Alice, Gordon Andrews, Mark Armstrong, David Atkins, Jeffrey Arnott
@@ -154,8 +154,27 @@ Peter Bayly, Kate Bissett Johnson, Steven Blaess, Fred Blochlinger, Don Brown, W
     </div>
        <!--about closeAboutEx btn-->
     <div class="closeAboutEx">
-        <img id ="_closeAboutEx" src ="Assets/ui_imags/close_aboutEx.svg" alt="about"/>
+        <img id ="_closeAboutEx" src ="Assets/ui_imags/aboutExCloseIcon.svg" alt="about"/>
     </div>
+    </div>
+
+    <div class="hidden">
+        <script type="text/javascript">
+                let images = new Array()
+                let imgNameK = ["SAM_BG_O_0", "SAM_G_O_0", "SAM_BN_O_0", "SAM_BK_O_0","SAM_R_O_0", "SAM_W_O_0", "SAM_O_O_0", "SAM_BU_O_0" , "SAM_Y_O_0" ]
+                function preload() {
+                    for(j=0; j<9; j++){
+                        let targetImageName = imgNameK[j]
+                        for (i = 1; i < 10; i++) {
+                            images[i] = new Image()
+                            images[i].src = "Assets/p_imgs/"+targetImageName+i+".jpg"
+                            //console.log("Assets/p_imgs/"+targetImageName+i+".jpg")
+                        }
+                    }
+  
+                }
+                preload()
+        </script>
     </div>
 
 
