@@ -37,9 +37,9 @@ function setScreenSize(){
     let sw = window.innerWidth
     let sh = window.innerHeight
     let top = document.getElementById("topArea");
-    top.style.height = sh * 0.5 +'px'
+    top.style.height = sh * 0.6 +'px'
     let bottom = document.getElementById("bottomArea")
-    bottom.style.height = sh * 0.5 +'px'
+    bottom.style.height = sh * 0.4 +'px'
     document.getElementsByClassName("overlay")[0].style.height=sh+"px"
     document.getElementsByClassName("overlay")[0].style.width=sw+"px"
     let heightOfPopUp= sh-45-sh*0.1
