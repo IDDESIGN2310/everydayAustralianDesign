@@ -277,7 +277,13 @@ function setPopUpContent(indexContent){
 
     productName.innerHTML = contentData[indexContent]["Product"]
     year.innerHTML = "Year: "+ contentData[indexContent]["Year"]
-    designer.innerHTML= "<span>Designer: </span>" + contentData[indexContent]["Designer1"] + ", " + contentData[indexContent]["Designer2"]
+        
+    if(contentData[indexContent]["Designer2"] == ""){
+        designer.innerHTML= "<span>Designer: </span>" + contentData[indexContent]["Designer1"]
+    }else{
+        designer.innerHTML= "<span>Designer: </span>" + contentData[indexContent]["Designer1"] + ", " + contentData[indexContent]["Designer2"]
+    }
+    
     client.innerHTML = "<span>Client: </span>" + contentData[indexContent]["Client"]
     detail.innerHTML = contentData[indexContent]["Description"]
     
