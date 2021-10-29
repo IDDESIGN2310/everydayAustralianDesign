@@ -18,106 +18,150 @@ body{
 }
 
 
-  .mycolumn {
-    flex: 100%;
-    max-width: 25%;
-    padding: 0 10px;
-  }
+/*Content areas*/
+#topArea{
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
 
-  .mycolumn img {
-    margin-top: 8px;
-    vertical-align: middle;
-    width: 30%;
-  }
+#bottomArea{
+  height: calc(100%*0.4);
+
+}
+
+#instruction_diamond_area{
+  height: calc(( 100%*0.4)*0.2 );
+}
 
 
+/*General style*/
+.bold{
+    font-weight: 800;
+}
+
+span{
+    font-weight: 700;
+}
+
+hr{
+  height: 10px;
+}
+
+.line{
+  height:1px;
+  width: 100%;
+  background-color: rgb(214, 214, 214);
+  margin:10px 0 10px 0;
+}
 
 
-  .overlay {
-    position: fixed;
-    z-index: 2;
+/*css for detail popup*/
+.overlay {
+  position: fixed;
+  z-index: 2;
 
-    top: 0px;
-    bottom: 0px;
-    left: 0px;
-    right: 0px;
-    background: rgba(0, 0, 0, 0.8);
-    
-    visibility:hidden;
-    opacity: 0;
-    transition: opacity 500ms; 
-  }
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  background: rgba(0, 0, 0, 0.8);
+  
+  visibility:hidden;
+  opacity: 0;
+  transition: opacity 500ms; 
+}
 
-  .popup {
-    margin: 30px 20px 0px 30px; 
-    padding: 20px;
-    background: #fff;
-    border-radius: 20px;
-    
-    position: relative;
+#popupWrapper{
+  padding: 45px 0 20px 0;
+  /*max-width: 600px;*/
+}
+
+.popup {
+  margin: 45px auto 0px auto; 
+  padding: 20px;
+  background: #fff;
+  border-radius: 20px;
+  
+  position: relative;
+  transition: all 500ms ease-in-out;
+  visibility:hidden;
+  opacity: 0;
+  max-width: 500px;
+}
+
+.popupContent{
+    height: 100%;
+    overflow:auto;
+    /*overflow-y: auto;*/
+    overflow-x: hidden;
     transition: all 500ms ease-in-out;
-    visibility:hidden;
-    opacity: 0;
-  }
+}
 
-  #closeBtn{
+#closeBtn{
     position: absolute;
     right:10px;
     top:10px;
-  }
+}
 
-  #productMainImage{
+#productMainImage{
     width: 100%;
     height: auto;
-  }
+}
 
-  #_detail{
-    height: 100%;
+#_detail{
+    margin-bottom: 50px;
+    font-size: 0.9em;
+    /*height: 100%;*/
     /*overflow: auto;*/
+}
+
+.diamond{
+    max-height: 90%;
+    /*maxheight:50%;*/
+    width:auto;
+    /*max-width:65px;*/
+
   }
 
-  .detailBottomNav{
-    margin: 5px auto;    
+.detailBottomNav{
+    margin: 0px auto 0 auto;    
     background: rgb(0, 0, 0);
     border-radius: 10px;
-    width: 90%;
-    height: 60px;
+    width: auto;
     padding: 10px;
-  }
+    max-width: 500px;
+}
 
-  hr{
-    height: 10px;
-  }
+.detailBottomNavImage{
+  position: relative;
+  max-width: auto;
+  max-height: 100%;
+  vertical-align: middle;
+  margin: 0;
+}
 
-  .line{
-    height:1px;
-    width: 100%;
-    background-color: rgb(214, 214, 214);
-    margin:10px 0 10px 0;
-  }
+/*detail bottom navigation height*/
+.dbnHeight{
+  display: flex;
+  position: relative;
+  height: 100%;
+  flex-flow: column wrap;
+  justify-content: center;
+}
 
-  .bold{
-    font-weight: 800;
-  }
-
-  span{
-    font-weight: 700;
-  }
-
-  .popupContent{
-    height: 100%;
-    overflow:scroll;
-    /*overflow-y: auto;*/
-    overflow-x: hidden;
-  }
-
-  .diamond{
-    max-width:75px;
-  }
+.dbnCol{
+  position: relative;
+  height:100%;
+  display: flex;
+}
 
 
+
+/*About Exhibition*/
   .aboutEx{
-    background-image:url('../../../Assets/ui_imags/bg_aboutEX.png');
+
     position: absolute;
     right:0px;
     bottom:0px;
@@ -136,9 +180,6 @@ body{
   }
 
   .closeAboutEx{
-    background-image:url('../../../Assets/ui_imags/bg_aboutEX.png');
-    
-    /*url("Assets/ui_imags/.png");*/
     position: absolute;
     right:0px;
     bottom:0px;
@@ -156,7 +197,7 @@ body{
   }
 
   .homeBtn{
-    background-image:url('../../../Assets/ui_imags/bg_home.svg');
+
     pointer-events: none;
     position: absolute;
     left:0px;
@@ -190,15 +231,15 @@ body{
     right: 0%;
     opacity: 0%;
     visibility: hidden;
+    max-width: 500px;
+    margin: 0px auto 0px auto;
   }
 
   .aboutExContent{
     position:relative;
     height: 100%;
-
+    font-size: 0.9em;
     overflow: scroll;
-    /*overflow-y: auto;*/
-    /*overflow-x: hidden;*/
 
   }
 
@@ -211,3 +252,27 @@ body{
     visibility: hidden;
     opacity: 0;
   }
+
+
+
+  #instruction{
+    height: 100%;
+    width: auto;
+    /*style="max-width:55%; */
+    margin-bottom: 20px;
+  }
+
+  #diamond_nav{
+    padding:0px 0px 30px 0px;
+    
+  }
+
+  .diamondRow{
+    position: relative;
+    height: 100%;
+  }
+
+  .thumbCol{
+    height: 100%;
+  }
+ 

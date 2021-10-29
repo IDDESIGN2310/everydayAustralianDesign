@@ -1,0 +1,60 @@
+{
+    "name": "Everyday Australian Design",
+    "short_name": "EAD",
+    "icons": [
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html?standalone=true",
+    "display": "standalone",
+    "background_color": "#000",
+    "theme_color": "#ffff00"
+
+    {
+        "name": "Everyday Australian Design",
+        "theme_color": "#000000",
+        "background_color": "#ffffff",
+        "display": "fullscreen",
+        "orientation": "portrait",
+        "scope": "/",
+        "start_url": "/index.html"
+      }
+  }

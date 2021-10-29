@@ -3,12 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0,user-scalable=no">
+    <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1.0; user-scalable=no; viewport-fit=cover">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
 
+    <!-- possible content values: default, black or black-translucent -->
+    <meta name="apple-mobile-web-app-status-bar-style"content="black-translucent">    
 
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700;800&display=swap');
-    </style>
+    <link rel="manifest" href="/manifest.json" />
+
+    <style> @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;700;800&display=swap');</style>
     <link rel="stylesheet" href="myCSS/myCSS.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     
@@ -27,90 +31,95 @@
  
 
     <!-- all content -->
-    <div>
+    <div id="displayArea">
     <!-- main logo area & thumbnail Grid area -->
     <div  class="row align-items-center" id="topArea">
-            <img id="logo" src="Assets/ui_imags/main_2.png"   style="max-width:80%; margin:auto" alt="logo">
+            <img id="logo" src="Assets/ui_imags/final_main.svg"   style="max-width:80%; margin:auto" alt="logo">
     </div>
-    <!-- diamond grid -->
-    <div  class="row align-items-center" id="bottomArea">
-        
-        <div >
-            <div class="col text-center">
-                <img id="instruction" src="Assets/ui_imags/middletext.svg" style="max-width:55%; margin-bottom: 20px;" alt="logo">
-            </div>
-            <div class="row align-items-center" >
 
-                <div class="col text-center">
-                    <img class="diamond" id ="m1" src ="Assets/ui_imags/m1.svg" alt="m1"/>
-                    <img class="diamond" id ="m2" src ="Assets/ui_imags/m2.svg" alt="m2"/>
-                    <img class="diamond" id ="m3" src ="Assets/ui_imags/m3.svg" alt="m3"/>
+    <!-- diamond grid -->
+
+    <div id="bottomArea" >
+        
+            <!--instruction for diamond area-->
+            <div class="text-center" id="instruction_diamond_area">
+                <img id="instruction" src="Assets/ui_imags/middletext.svg" alt="logo">
+            </div>
+
+            <!--diamond_nav_area-->
+            <div id="diamond_nav">
+                <div class="diamondRow row align-items-center " >
+                    <div class="diamondRow col text-center">
+                        <img class="diamond" id ="m1" src ="Assets/ui_imags/m1.svg" alt="m1"/>
+                        <img class="diamond" id ="m2" src ="Assets/ui_imags/m2.svg" alt="m2"/>
+                        <img class="diamond" id ="m3" src ="Assets/ui_imags/m3.svg" alt="m3"/>
+                    </div>
                 </div>
-              </div>
-            <div class="row align-items-center " style="margin-top:2%;">
-                  <div class="col text-center">
-                      <img class="diamond" id ="m4" src ="Assets/ui_imags/m4.svg" alt="m4"/>
-                      <img class="diamond" id ="m5" src ="Assets/ui_imags/m5.svg" alt="m5"/>
-                      <img class="diamond" id ="m6" src ="Assets/ui_imags/m6.svg" alt="m6"/>
-                  </div>
-              </div>
-              <div class="row align-items-center" style="margin-top:2%;">
-                  <div class="col text-center">
-                      <img class="diamond" id ="m7" src ="Assets/ui_imags/m7.svg" alt="m7"/>
-                      <img class="diamond" id ="m8" src ="Assets/ui_imags/m8.svg" alt="m8"/>
-                      <img class="diamond" id ="m9" src ="Assets/ui_imags/m9.svg" alt="m9"/>
-                  </div>
-              </div>
+                <div class="diamondRow row align-items-center " >
+                    <div class="diamondRow col text-center">
+                        <img class="diamond" id ="m4" src ="Assets/ui_imags/m4.svg" alt="m4"/>
+                        <img class="diamond" id ="m5" src ="Assets/ui_imags/m5.svg" alt="m5"/>
+                        <img class="diamond" id ="m6" src ="Assets/ui_imags/m6.svg" alt="m6"/>
+                    </div>
+                </div>
+                <div class="diamondRow row align-items-center " >
+                    <div class="diamondRow col text-center">
+                        <img class="diamond" id ="m7" src ="Assets/ui_imags/m7.svg" alt="m7"/>
+                        <img class="diamond" id ="m8" src ="Assets/ui_imags/m8.svg" alt="m8"/>
+                        <img class="diamond" id ="m9" src ="Assets/ui_imags/m9.svg" alt="m9"/>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <!-- overlay popup: product Detail-->
     <div class="overlay">
-
         <!-- Popup: Contents template-->
-        <div class="popup">
-            <div id="closeBtn">
-                <img src="Assets/ui_imags/closebtn.svg" />
-            </div>
-            <div class="popupContent">
-                <div id="mainProductImage" class="text-center">
-                    <img id="productMainImage"  />
+            <div class="popup">
+                <div id="closeBtn">
+                    <img src="Assets/ui_imags/closebtn.svg" />
                 </div>
-                <div class="row">
-                    <div class="col bold" id="_name">
-                        STACK HOT
+                <div class="popupContent">
+                    <div id="mainProductImage" class="text-center">
+                        <img id="productMainImage"  />
                     </div>
-                    <div class="col text-end" id="_year">
-                        1980
+                    <div class="row">
+                        <div class="col bold" id="_name">
+                            STACK HOT
+                        </div>
+                        <div class="col text-end" id="_year">
+                            1980
+                        </div>
+                    </div>
+                    <div class="line"></div>
+                    <div id="_client">
+                        <span>Client:</span> Rosebank
+                    </div>
+                    <div id="_designer">
+                        <span>Designer:</span> Bryon Fitzpatrick, PA Technology 
+                    </div>
+                    <div class="line"></div>
+                    <div id="_detail">
+                        The Stackhat is a classic Aussie product celebrated for it’s connection to being forced as a kid to wear a bike helmet. Designed to meet strict bicycle safety standards, the concept was for a multi-use design for cricket, horse riding and bicycling. Designer Bryon Fitzpatrick was influenced by the work of visual futurist Syd Mead on the film Tron. Bryon Fitzpatrick is a Hall of Fame member of the Design Institute of Australia."
                     </div>
                 </div>
-                <div class="line"></div>
-                <div id="_client">
-                    <span>Client:</span> Rosebank
-                </div>
-                <div id="_designer">
-                    <span>Designer:</span> Bryon Fitzpatrick, PA Technology 
-                </div>
-                <div class="line"></div>
-                <div id="_detail">
-                    The Stackhat is a classic Aussie product celebrated for it’s connection to being forced as a kid to wear a bike helmet. Designed to meet strict bicycle safety standards, the concept was for a multi-use design for cricket, horse riding and bicycling. Designer Bryon Fitzpatrick was influenced by the work of visual futurist Syd Mead on the film Tron. Bryon Fitzpatrick is a Hall of Fame member of the Design Institute of Australia."
-                </div>
-            </div>
 
-        </div>
-        <!-- Popup bottom navigation -->   
-        <div class="detailBottomNav">
-            <div class="row align-items-center">
-                <div class="col">
-                    <img src="Assets/ui_imags/arrow_white_left.svg" width="18" id="_leftArrow">
-                </div>
-                <div class="col text-center">
-                    <img src="Assets/ui_imags/m1.svg" width="40" id="_colourGroupMark">
-                </div>
-                <div class="col text-end">
-                    <img src="Assets/ui_imags/arrow_white_right.svg" width="18" id="_rightArrow">
+            </div>
+            <!-- Popup bottom navigation id="dbnHeight" -->   
+            <div class="detailBottomNav">
+                <div class="dbnHeight" >
+                    <div class="dbnCol" >
+                        <img src="Assets/ui_imags/arrow_white_left.svg"  id="_leftArrow" class="detailBottomNavImage" />
+                    </div>
+                    <div class="dbnCol" style="justify-content: center;">
+                        <img src="Assets/ui_imags/m1.svg"  id="_colourGroupMark" class="detailBottomNavImage"/>
+                    </div>
+                    <div class="dbnCol" style="justify-content: flex-end;" >
+                        <img src="Assets/ui_imags/arrow_white_right.svg"  id="_rightArrow" class="detailBottomNavImage"/>
+                    </div>
                 </div>
             </div>
-        </div>
+        
     </div>
     <!--about Exhibition-->
     <div class="popUpAboutEx">
@@ -158,24 +167,7 @@ Peter Bayly, Kate Bissett Johnson, Steven Blaess, Fred Blochlinger, Don Brown, W
     </div>
     </div>
 
-    <div class="hidden">
-        <script type="text/javascript">
-                let images = new Array()
-                let imgNameK = ["SAM_BG_O_0", "SAM_G_O_0", "SAM_BN_O_0", "SAM_BK_O_0","SAM_R_O_0", "SAM_W_O_0", "SAM_O_O_0", "SAM_BU_O_0" , "SAM_Y_O_0" ]
-                function preload() {
-                    for(j=0; j<9; j++){
-                        let targetImageName = imgNameK[j]
-                        for (i = 1; i < 10; i++) {
-                            images[i] = new Image()
-                            images[i].src = "Assets/p_imgs/"+targetImageName+i+".jpg"
-                            //console.log("Assets/p_imgs/"+targetImageName+i+".jpg")
-                        }
-                    }
-  
-                }
-                preload()
-        </script>
-    </div>
+
 
 
    

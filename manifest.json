@@ -1,0 +1,51 @@
+{
+    "name": "Everyday Australian Design",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/index.html",
+    "icons": [
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "Assets/appIcon.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      }
+    ]
+  }
